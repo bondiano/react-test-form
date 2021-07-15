@@ -1,0 +1,7 @@
+src/serviceWorker.ts
+src/**/__tests__/**
+node_modules
+build
+dist
+lib
+bin
